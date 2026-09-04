@@ -1,0 +1,6 @@
+{
+  "name": "Jarvis Hardware Hub",
+  "description": "Centro de control y API bridge para Jarvis con integración física ESP32-S3, pantalla ST7735, sensores y Gemini.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

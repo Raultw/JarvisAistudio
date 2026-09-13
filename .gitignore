@@ -1,0 +1,7 @@
+.pio/
+.vscode/
+include/secrets.h
+*.bak
+*.bak-*
+*.log
+**/.piopm
